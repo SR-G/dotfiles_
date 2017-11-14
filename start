@@ -1,0 +1,5 @@
+export VISUAL=vim
+export EDITOR="$VISUAL"
+
+git config --global user.name "SR-G"
+git config --global user.email "serge.simon@gmail.com"
